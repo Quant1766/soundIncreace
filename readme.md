@@ -27,4 +27,3 @@ Programm recording 60 second \
 If you want create short record need enter <q> in console \
 And program break of recording
 
-
